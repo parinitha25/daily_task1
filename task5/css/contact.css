@@ -1,0 +1,47 @@
+.name {
+  width: 200px;
+  padding-left: 30px;
+  background-color:yellow;
+  height:30px;
+  margin-top: 50px;
+  margin-right: 70px;
+}
+.name2{
+	width: 200px;
+  padding-left: 30px;
+  background-color:yellow;
+  height:30px;
+  margin-top: 50px;
+  margin-left: 70px;
+
+}
+.email  {
+  width: 700px;
+  padding-left: 20px;
+  background-color: yellow;
+  margin-top: 50px;
+  height: 30px;
+}
+#color{
+	color: blue;
+	font-style: italic;
+	text-align: center;
+	border-style: solid;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	margin-left: 370px;
+	width: 500px;
+	height: 50px;
+
+}
+.get{
+	width: 700px;
+  padding-left: 20px;
+  background-color: yellow;
+  margin-top: 50px;
+  height: 30px;
+}
+span{
+	padding:20px;
+	font-size: 30px;
+}

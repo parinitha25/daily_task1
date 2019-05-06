@@ -1,0 +1,34 @@
+#border
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 25%;
+}
+
+th {
+  height: 25px;
+}
+p{
+	/*color: red;*/
+    color: rgb(0,0,255);
+}
+#color{
+	color: rgb(120,135,75);
+}
+h1{
+	color:rgb(255,0,255)
+}
+h2{
+	color:#4842f4;
+}
+#test{
+	 color: #f442bf;                                                   
+}
+.desk{
+	color: #f4e841;
+	font-style: italic;
+  }
+  

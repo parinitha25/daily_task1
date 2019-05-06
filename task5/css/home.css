@@ -1,0 +1,38 @@
+#color{
+	color: red;
+	
+}
+#img{
+	float: right;
+	width: 100px;
+	height: 100px;
+
+}
+#get{
+	background-color:grey;
+}
+#src{
+	/*background-color:grey;*/
+	padding: 20px;
+}
+#hi{
+	text-align:center;
+	margin-top: 20px;
+	/*background-color: grey;*/
+
+}
+span{
+	padding: 20px;
+	font-size: 30px;
+}
+fieldset{
+	background-color: yellow;
+}
+#left{
+	width: 100%;
+	
+	background-color: green;
+}
+#scrl {
+	height: 150px;
+}
