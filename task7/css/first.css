@@ -1,0 +1,35 @@
+.link{
+	display: flex;
+	align-items:flex-start;
+}
+.flex-container{
+	justify-content:center;
+	flex-flow: wrap;
+	background-color: pink;
+	margin:5px;
+	
+}
+h1{
+	color: blue;
+	font-size: 20px;
+	padding:0 20px 0 20px;
+}
+p{
+	color: red;
+	font-size: 15px;
+	padding:0 20px 0 20px;
+}
+input{
+	background-color: grey;
+	width:150px;
+	height: 30px;
+	/*align-content:center;*/
+	margin:15px 0 15px 25px ;
+	text-align: center;
+
+}
+#get{
+	width: 205px;
+	height: 100px;
+	/*padding: 20px;*/
+}
