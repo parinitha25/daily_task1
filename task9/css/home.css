@@ -1,0 +1,47 @@
+.color{
+	justify-content: flex-start;
+	display: flex;
+	background-color: #b8f441;
+    
+
+}
+
+.line{
+
+	background-color: #d1c868;
+	padding:30px;
+	/*display: flex;*/
+
+}
+#flex-container{
+	display: flex;
+	justify-content:center;
+	/*flex-direction: column;*/
+	
+}
+.get{
+	background-color: #9ed168;
+	padding:30px;
+}
+.task{
+ background-color: #b8f441;
+ font-size: 20px;
+ display: flex;
+
+}
+.link{
+	height: 900px;
+	display: flex;
+}
+#s1{
+	align-self: flex-start;
+}
+#s2{
+	align-self: flex-end;
+}
+#s3{
+	align-self: center;
+}
+#s4{
+	align-self: flex-start;
+}
